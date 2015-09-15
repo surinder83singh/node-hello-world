@@ -1,0 +1,24 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "A demo npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/surinder83singh/node-hello-world.git"
+  },
+  "keywords": [
+    "demo",
+    "npm",
+    "module"
+  ],
+  "author": "Surinder singh <surinder@developerextensions.com> (http://developerextensions.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surinder83singh/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/surinder83singh/node-hello-world"
+}
