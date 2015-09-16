@@ -1,0 +1,20 @@
+{
+  "name": "node-hello-world",
+  "version": "0.0.1",
+  "authors": [
+    "surinder singh. <surinder83singh@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bowerHelloWorld": "bowerHelloWorld"
+  }
+}
